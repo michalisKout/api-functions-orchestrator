@@ -13,7 +13,7 @@
     "node": "8"
   },
   "dependencies": {
-    "cv-app-api": "^1.0.3",
+    "cv-app-api": "github:michalisKout/cv-app-api#master",
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
     "firebase-admin": "^8.0.0",
