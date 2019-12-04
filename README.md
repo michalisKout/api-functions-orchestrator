@@ -6,3 +6,6 @@ This is an orchestrator api. This api integrates all necessary api with firebase
 Integrated apis:
  - **cv-app-api**: Custom api for cv-view.firebase.com which retrieves user information from firebase cloud storage.
  - **meetup-api**: Mocked api with json-server for meetup app.
+
+**HEALTHCHECK**
+ https://us-central1-cv-app-17131.cloudfunctions.net/cvApp/healthcheck
