@@ -4,7 +4,6 @@
   "description": "Integrates cv-app-api with firebase as serverless api",
   "main": "index.js",
   "dependencies": {
-    "cv-app-api": "^1.0.1",
     "firebase-admin": "^8.8.0",
     "firebase-functions": "^3.2.0",
     "firebase-tools": "^7.3.2"
@@ -26,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michalisKout/firebase-function-api.git"
+    "url": "git+https://github.com/michalisKout/api-functions-orchestrator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michalisKout/firebase-function-api/issues"
+    "url": "https://github.com/michalisKout/api-functions-orchestrator/issues"
   },
-  "homepage": "https://github.com/michalisKout/firebase-function-api#readme"
+  "homepage": "https://github.com/michalisKout/api-functions-orchestrator#readme"
 }
